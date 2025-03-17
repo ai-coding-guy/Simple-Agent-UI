@@ -128,7 +128,7 @@ const Chat = () => {
                         </button>
                     </div>
                     <div className="mx-auto text-xs text-gray-400 pt-2">
-                        Agent can make mistakes. Copyright by tungdt.bk@gmail.com
+                        Agent can make mistakes. Developed by tungdt.bk@gmail.com
                     </div>
                 </div>
             </div>

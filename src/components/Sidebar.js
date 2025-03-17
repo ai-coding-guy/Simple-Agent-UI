@@ -13,7 +13,7 @@ const Sidebar = () => {
                     </div>
                 </div>
                 <div className="hidden md:flex flex-col items-center gap-2">
-                    <div className="p-2 text-gray-500 bg-gray-200 hover:bg-gray-300 flex items-center justify-center rounded-md size-10">
+                    <div className="p-2 text-gray-500 bg-gray-200 hover:bg-gray-300 flex items-center justify-center rounded-md size-10" onClick={() => window.location.assign("/chat")}>
                         <FaRegMessage className="size-5"></FaRegMessage>
                     </div>
                     <div className="p-2 text-gray-500 hover:bg-gray-300 flex items-center justify-center rounded-md size-10">

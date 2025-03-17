@@ -2,6 +2,8 @@
 
 Simple Agent UI is a lightweight user interface built with **React.js** and **Tailwind CSS** for displaying and interacting with agents.
 
+![Screenshoot](screenshot.png)
+
 ## 🚀 Technologies Used
 - [React.js](https://reactjs.org/) - JavaScript library for building user interfaces
 - [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS framework for rapid UI development
